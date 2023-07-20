@@ -38,7 +38,7 @@ PowerBI is connected to Postgres as a direct data source.
 
 Screenshot below plots the value of $1 Australian Dollar ($AUD) against USD, GBP and HKD.
 
-IMAGE
+![Alt text](PowerBI.jpg)
 
 
 
