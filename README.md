@@ -13,7 +13,7 @@ Using the API from https://apilayer.com/ - I have extracted the 2022 DAILY value
 - Canadian Dollar ($ CAD)
 - Hong Kong Dollar ($ HKD)
 
-IMAGE
+![Alt text](etl_diagram.png)
 
 etl.py file represents the complete pipeline
 
